@@ -1,0 +1,22 @@
+#container {
+  width: 100%;
+}
+
+#id1 {
+  background-color: cyan;
+  text-align: center;
+}
+
+#id2 {
+  background-color: darkgoldenrod;
+  float: left;
+}
+#id3 {
+  vertical-align: center;
+  background-color: darkgreen;
+  height: 77px;
+  text-align: center;
+}
+#id4 {
+  background-color: cyan;
+}
