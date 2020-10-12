@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(145, 214, 216);
+}
+
+.topnav {
+  color: brown;
+}
+.topnav a {
+  color: rgb(136, 65, 65);
+}
+.topnav :hover {
+  background-color: silver;
+}
+.wrapper {
+  width: 70vw;
+  margin: 16px auto;
+  padding: 16px;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.wrapper h1 {
+  color: rgb(87, 58, 58);
+}
+
+.wrapper h2 {
+  color: honeydew;
+}
+
+.wrapper p {
+  color: rgb(224, 174, 108);
+}
+
+.underline {
+  text-decoration: underline;
+}
